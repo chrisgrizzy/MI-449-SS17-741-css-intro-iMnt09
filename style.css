@@ -23,9 +23,10 @@ h1, .tagline {
 
 header{
   background-color: #FFFFFF;
-  padding-bottom: 30px;
-  padding-top: 30px;
+  padding-bottom: 12px;
+  padding-top: 5px;
   margin-top:20px;
+
 }
 
 a{
