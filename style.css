@@ -4,8 +4,11 @@
 
 }
 
+
+}
 p.tagline{
   text-align: center;
+
 }
 
 
@@ -18,13 +21,16 @@ title{
 
 h1, .tagline {
   text-align: center;
-
+  margin: 15px;
+}
+h2.eastlansing, h2.chicago{
+  border-bottom: 2px solid #D5A470;
 }
 
 header{
   background-color: #FFFFFF;
   padding-bottom: 12px;
-  padding-top: 5px;
+  padding-top: 9px;
   margin-top:20px;
 
 }
@@ -39,7 +45,7 @@ a:hover{
 }
 
 span.city-description{
-  font-size: 12px;
+  font-size: 14px;
   margin-left: 8px;
 }
 
@@ -61,6 +67,7 @@ span.city-description{
   padding-left: 30px;
   padding-right: 27px;
   padding-bottom: 30px;
+  margin-bottom: 66px;
 }
 .images{
   max-width: 428px;
@@ -77,7 +84,7 @@ section{
 
 h2, .city-description{
   padding-bottom: 17px;
-  border-bottom: 2px solid #D5A470;
+
 }
 
 
